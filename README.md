@@ -93,7 +93,7 @@
 
 <br/>
 
-## 📚 개인 공부
+## 📚 Study
 
 | 저장소 | 내용 | 기술 |
 | --- | --- | --- |
@@ -106,7 +106,7 @@
 
 ## 🧩 Algorithm
 
-- [**PracTest**](https://github.com/diacond/PracTest) — 백준·프로그래머스 **약 200문제** 풀이 기록 (BaekjoonHub를 통한 자동 커밋)
+- [**PracTest**](https://github.com/diacond/PracTest) — 코딩 테스트 준비 (BaekjoonHub)
 
 <br/>
 
