@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white"/>
 
 **Data / ML**
 <br/>
@@ -42,7 +43,7 @@
 
 <br/>
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 💵 [하나케어 (HanaroCare)](https://github.com/HanaroCare/hanaro-care-main)
 **시니어의 노후 지출을 정밀하게 설계하고 자산을 안전하게 지켜주는 서비스**
@@ -54,6 +55,17 @@
 | 담당 | **상속 파트 풀스택 개발** (요구사항 → API → DB → 화면), **최종 발표** |
 | 기술 | Spring · MySQL · React · TypeScript |
 | 링크 | [Repository](https://github.com/HanaroCare/hanaro-care-main) · [Organization](https://github.com/HanaroCare) |
+
+### 👶 [아이앞으로 (ForYouHana)](https://github.com/F1-FamilyOne/foryouhana-mobileweb-ui)
+**자녀를 위한 증여·투자를 쉽게 시작하도록 돕는 모바일 웹 서비스**
+<br/>
+디지털하나路 8기 1차 팀 프로젝트 (8인) · 2026.01 ~ 2026.02
+
+| 구분 | 내용 |
+| --- | --- |
+| 담당 | **자녀별 타임라인 화면**, **부모 메모 작성 기능**(Server Action), **자녀 프로필 변경 화면**, **DB 스키마·시드 데이터** 설계 |
+| 기술 | Next.js 16 · React 19 · TypeScript · Prisma · MySQL · Storybook |
+| 링크 | [Repository](https://github.com/F1-FamilyOne/foryouhana-mobileweb-ui) · [Organization](https://github.com/F1-FamilyOne) |
 
 <br/>
 
@@ -88,6 +100,7 @@
 | 금융 | 투자자산운용사 | 2026.05 |
 | 어학 | TOEIC 935 | 2026.08 |
 | 어학 | TOEIC Speaking AL | 2026.08 |
+| 어학 | JLPT N2 | 2026.07 |
 
 <br/>
 
