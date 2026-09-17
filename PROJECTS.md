@@ -5,12 +5,13 @@
 | # | 프로젝트 | 한 줄 요약 | 주요 기술 | 형태 |
 | --- | --- | --- | --- | --- |
 | 1 | [하나케어](#1-하나케어-hanarocare) | 시니어 자산 보호 서비스 | Spring · MySQL · React · TypeScript | 팀 (6인) |
-| 2 | [battery-soh-pipeline](#2-battery-soh-pipeline) | 배터리 수명(SOH/RUL) 예측 API | Python · scikit-learn · FastAPI · Docker · GitHub Actions | 개인 |
-| 3 | [mstar-atr](#3-mstar-atr) | 레이더(SAR) 영상 표적 분류 API | Python · scikit-image · scikit-learn · FastAPI | 개인 |
-| 4 | [QuantInvesting](#4-quantinvesting) | 이동평균 교차 전략 백테스팅 대시보드 | Python · vectorbt · Streamlit · Plotly | 개인 |
-| 5 | [hanaro_first_hw](#5-hanaro_first_hw) | 게시판 DB 모델링 과제 | Next.js · TypeScript · Prisma · MySQL | 교육 과제 |
-| 6 | [PracTest](#6-practest) | 알고리즘 문제 풀이 기록 | C++ | 개인 |
-| 7 | [hana8](#7-hana8) | 디지털하나路 8기 학습 기록 | HTML · CSS · JavaScript · TypeScript | 교육 과정 |
+| 2 | [아이앞으로](#2-아이앞으로-foryouhana) | 자녀 증여·투자 모바일 웹 서비스 | Next.js · React · TypeScript · Prisma · MySQL | 팀 (8인) |
+| 3 | [battery-soh-pipeline](#3-battery-soh-pipeline) | 배터리 수명(SOH/RUL) 예측 API | Python · scikit-learn · FastAPI · Docker · GitHub Actions | 개인 |
+| 4 | [mstar-atr](#4-mstar-atr) | 레이더(SAR) 영상 표적 분류 API | Python · scikit-image · scikit-learn · FastAPI | 개인 |
+| 5 | [QuantInvesting](#5-quantinvesting) | 이동평균 교차 전략 백테스팅 대시보드 | Python · vectorbt · Streamlit · Plotly | 개인 |
+| 6 | [hanaro_first_hw](#6-hanaro_first_hw) | 게시판 DB 모델링 과제 | Next.js · TypeScript · Prisma · MySQL | 교육 과제 |
+| 7 | [PracTest](#7-practest) | 알고리즘 문제 풀이 기록 | C++ | 개인 |
+| 8 | [hana8](#8-hana8) | 디지털하나路 8기 학습 기록 | HTML · CSS · JavaScript · TypeScript | 교육 과정 |
 
 ---
 
@@ -37,7 +38,34 @@
 
 ---
 
-## 2. battery-soh-pipeline
+## 2. 아이앞으로 (ForYouHana)
+
+🔗 [F1-FamilyOne/foryouhana-mobileweb-ui](https://github.com/F1-FamilyOne/foryouhana-mobileweb-ui)
+
+**주제**
+자녀의 미래를 위한 증여·투자를 쉽고 명확하게 시작하도록 돕는 모바일 웹 서비스
+
+**목적**
+복잡한 절차와 어려운 용어 때문에 증여를 망설이는 부모의 심리적·절차적 허들을 낮추는 것
+
+**동기**
+디지털하나路 8기 1차 팀 프로젝트로 진행했습니다. MZ세대 부모는 자녀를 위한 증여에 관심이 많지만, 시작하기 어렵다는 점에 주목했습니다.
+
+**세부사항**
+- 기간: 2026.01 ~ 2026.02
+- 팀 구성: 8명 (Team F1)
+- **내 역할**
+  - **자녀별 타임라인 화면**: 서버 컴포넌트에서 Prisma로 자녀 정보, 자녀 목록, 타임라인, 계좌를 병렬 조회해 이벤트 카드로 렌더링
+  - **부모 메모 작성 기능**: Server Action으로 타임라인 메모를 저장하고 `revalidatePath`로 화면에 즉시 반영
+  - **자녀 프로필 변경 화면**과 성인 자녀 안내 팝업
+  - **DB 스키마·시드 데이터**: 타임라인 테이블, 연금저축펀드 계좌 등 스키마 변경과 샘플 데이터 작성
+  - 타임라인 컴포넌트 Storybook 스토리, 하단 네비게이션 바 플로팅 처리
+- 기술: Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS 4, Prisma, MySQL, Storybook, Biome
+- 협업: 이슈 번호 기반 feature 브랜치와 Pull Request로 개발
+
+---
+
+## 3. battery-soh-pipeline
 
 🔗 [diacond/battery-soh-pipeline](https://github.com/diacond/battery-soh-pipeline)
 
@@ -70,7 +98,7 @@ EV·ESS 배터리의 수명과 안전성을 진단하는 서비스를 작은 규
 
 ---
 
-## 3. mstar-atr
+## 4. mstar-atr
 
 🔗 [diacond/mstar-atr](https://github.com/diacond/mstar-atr)
 
@@ -95,7 +123,7 @@ EV·ESS 배터리의 수명과 안전성을 진단하는 서비스를 작은 규
 
 ---
 
-## 4. QuantInvesting
+## 5. QuantInvesting
 
 🔗 [diacond/QuantInvesting](https://github.com/diacond/QuantInvesting)
 
@@ -121,7 +149,7 @@ EV·ESS 배터리의 수명과 안전성을 진단하는 서비스를 작은 규
 
 ---
 
-## 5. hanaro_first_hw
+## 6. hanaro_first_hw
 
 🔗 [diacond/hanaro_first_hw](https://github.com/diacond/hanaro_first_hw)
 
@@ -144,7 +172,7 @@ Next.js 프로젝트에 Prisma ORM과 MySQL을 연결하고, 관계형 스키마
 
 ---
 
-## 6. PracTest
+## 7. PracTest
 
 🔗 [diacond/PracTest](https://github.com/diacond/PracTest)
 
@@ -167,7 +195,7 @@ Next.js 프로젝트에 Prisma ORM과 MySQL을 연결하고, 관계형 스키마
 
 ---
 
-## 7. hana8
+## 8. hana8
 
 🔗 [diacond/hana8](https://github.com/diacond/hana8)
 
