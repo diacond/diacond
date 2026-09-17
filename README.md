@@ -9,6 +9,20 @@
 
 <br/>
 
+## 📜 Certifications
+
+| 분야 | 자격증 | 취득 |
+| --- | --- | --- |
+| IT | 정보처리기사 | 2025.09 |
+| 데이터 | ADsP (데이터분석 준전문가) | 2025.03 |
+| 데이터 | SQLD (SQL 개발자) | 2025.04 |
+| 금융 | 투자자산운용사 | 2026.05 |
+| 어학 | JLPT N2 | 2026.07 |
+| 어학 | TOEIC 935 | 2026.08 |
+| 어학 | TOEIC Speaking AL | 2026.08 |
+
+<br/>
+
 ## 🛠 Tech Stack
 
 **Backend**
@@ -73,34 +87,20 @@
 
 | 프로젝트 | 설명 | 기술 |
 | --- | --- | --- |
-| 🔋 [battery-soh-pipeline](https://github.com/diacond/battery-soh-pipeline) | 배터리 충방전 기록으로 수명(SOH/RUL)을 예측하는 API. 누수 없는 검증 설계, 외부 데이터셋 검증, MSA 분리, CI 재현 | Python · FastAPI · scikit-learn · Docker · GitHub Actions |
-| 🛰️ [mstar-atr](https://github.com/diacond/mstar-atr) | 레이더(SAR) 영상에서 차량 10종을 분류하는 API. HOG + SVM, 정확도 86.7% | Python · FastAPI · scikit-learn |
-| 📈 [QuantInvesting](https://github.com/diacond/QuantInvesting) | 이동평균 교차 전략 백테스팅·종목 스크리너 대시보드 | Python · vectorbt · Streamlit · Plotly |
+| 🔋 [battery-soh-pipeline](https://github.com/diacond/battery-soh-pipeline) | 데이터 분석 | 배터리 충방전 기록으로 수명(SOH/RUL)을 예측하는 API. 누수 없는 검증 설계, 외부 데이터셋 검증, MSA 분리, CI 재현 | Python · FastAPI · scikit-learn · Docker · GitHub Actions |
+| 🛰️ [mstar-atr](https://github.com/diacond/mstar-atr) | 데이터 분석 | 레이더(SAR) 영상에서 차량 10종을 분류하는 API. HOG + SVM, 정확도 86.7% | Python · FastAPI · scikit-learn |
+| 📈 [QuantInvesting](https://github.com/diacond/QuantInvesting) | 퀀트 트레이딩을 위한 이동평균선 교차 전략 백테스팅·종목 스크리너 대시보드 | Python · vectorbt · Streamlit · Plotly |
 | 🗂️ [hanaro_first_hw](https://github.com/diacond/hanaro_first_hw) | 게시판 서비스 DB 모델링 및 Prisma 연동 | Next.js · TypeScript · Prisma · MySQL |
-| 🧩 [PracTest](https://github.com/diacond/PracTest) | 백준·프로그래머스 약 200문제 풀이 기록 | C++ |
+| 🧩 [PracTest](https://github.com/diacond/PracTest) | 코딩 테스트 준비 | C++ · Python · SQL |
 | 📚 [hana8](https://github.com/diacond/hana8) | 디지털하나路 8기 웹 기초 학습 기록 | HTML · CSS · JavaScript · TypeScript |
 
-👉 각 프로젝트의 주제, 목적, 동기, 세부사항은 **[PROJECTS.md](./PROJECTS.md)** 에 정리했습니다.
+👉 각 프로젝트의 세부사항은 **[PROJECTS.md](./PROJECTS.md)** 에 정리했습니다.
 
 <br/>
 
 ## 🧩 Algorithm
 
-- [**PracTest**](https://github.com/diacond/PracTest) — 백준·프로그래머스 **약 200문제** 풀이 기록 (C++, BaekjoonHub 자동 커밋)
-
-<br/>
-
-## 📜 Certifications
-
-| 분야 | 자격증 | 취득 |
-| --- | --- | --- |
-| IT | 정보처리기사 | 2025.09 |
-| 데이터 | SQLD (SQL 개발자) | 2025.04 |
-| 데이터 | ADsP (데이터분석 준전문가) | 2025.03 |
-| 금융 | 투자자산운용사 | 2026.05 |
-| 어학 | TOEIC 935 | 2026.08 |
-| 어학 | TOEIC Speaking AL | 2026.08 |
-| 어학 | JLPT N2 | 2026.07 |
+- [**PracTest**](https://github.com/diacond/PracTest) — 백준·프로그래머스 **약 200문제** 풀이 기록 (BaekjoonHub를 통한 자동 커밋)
 
 <br/>
 
