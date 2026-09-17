@@ -77,7 +77,7 @@
 
 | 구분 | 내용 |
 | --- | --- |
-| 담당 | **상속 파트 풀스택 개발** (요구사항 → API → DB → 화면), **최종 발표** |
+| 담당 | **상속 파트 풀스택 개발** (요구사항 → API → DB → 화면) |
 | 기술 | Spring · MySQL · React · TypeScript |
 | 링크 | [Repository](https://github.com/HanaroCare/hanaro-care-main) · [Organization](https://github.com/HanaroCare) |
 
