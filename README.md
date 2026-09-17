@@ -2,6 +2,11 @@
 
 > 화면에서 데이터베이스까지 커버하는 개발자를 목표로 하고 있습니다.
 
+- 🎓 홍익대학교 컴퓨터공학과 졸업
+- 🏦 디지털하나路 8기 수료
+- 💻 Spring · MySQL · React 기반 풀스택 개발
+- 📈 금융 도메인과 데이터 분석에 관심이 많습니다
+
 <br/>
 
 ## 🛠 Tech Stack
@@ -64,6 +69,25 @@
 | 📚 [hana8](https://github.com/diacond/hana8) | 디지털하나路 8기 웹 기초 학습 기록 | HTML · CSS · JavaScript · TypeScript |
 
 👉 각 프로젝트의 주제, 목적, 동기, 세부사항은 **[PROJECTS.md](./PROJECTS.md)** 에 정리했습니다.
+
+<br/>
+
+## 🧩 Algorithm
+
+- [**PracTest**](https://github.com/diacond/PracTest) — 백준·프로그래머스 **약 200문제** 풀이 기록 (C++, BaekjoonHub 자동 커밋)
+
+<br/>
+
+## 📜 Certifications
+
+| 분야 | 자격증 | 취득 |
+| --- | --- | --- |
+| IT | 정보처리기사 | 2025.09 |
+| 데이터 | SQLD (SQL 개발자) | 2025.04 |
+| 데이터 | ADsP (데이터분석 준전문가) | 2025.03 |
+| 금융 | 투자자산운용사 | 2026.05 |
+| 어학 | TOEIC 935 | 2026.08 |
+| 어학 | TOEIC Speaking AL | 2026.08 |
 
 <br/>
 
