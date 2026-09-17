@@ -70,29 +70,30 @@
 | 기술 | Spring · MySQL · React · TypeScript |
 | 링크 | [Repository](https://github.com/HanaroCare/hanaro-care-main) · [Organization](https://github.com/HanaroCare) |
 
-### 👶 [아이앞으로 (ForYouHana)](https://github.com/F1-FamilyOne/foryouhana-mobileweb-ui)
-**자녀를 위한 증여·투자를 쉽게 시작하도록 돕는 모바일 웹 서비스**
+### 🔋 [battery-soh-pipeline](https://github.com/diacond/battery-soh-pipeline)
+**배터리 충방전 기록으로 수명(SOH/RUL)을 예측하고 API로 제공하는 데이터 분석 파이프라인**
 <br/>
-디지털하나路 8기 1차 팀 프로젝트 (8인) · 2026.01
+개인 프로젝트 · 2026.09
 
 | 구분 | 내용 |
 | --- | --- |
-| 담당 | **자녀별 타임라인 화면**, **부모 메모 작성 기능**(Server Action), **자녀 프로필 변경 화면**, **DB 스키마·시드 데이터** 설계 |
-| 기술 | Next.js 16 · React 19 · TypeScript · Prisma · MySQL · Storybook |
-| 링크 | [Repository](https://github.com/F1-FamilyOne/foryouhana-mobileweb-ui) · [Organization](https://github.com/F1-FamilyOne) |
+| 담당 | **전 과정 개인 개발** (데이터 파싱 → 피처 설계 → 모델 학습 → API → 테스트·CI) |
+| 성과 | 누수 없는 배터리 단위 검증(LOBO)으로 SOH **MAE 0.008 · R² 0.982**, 학습에 쓰지 않은 외부 데이터셋으로 일반화 한계와 원인까지 분석 |
+| 기술 | Python · scikit-learn · FastAPI · Docker · GitHub Actions |
+| 링크 | [Repository](https://github.com/diacond/battery-soh-pipeline) · [실험 로그](https://github.com/diacond/battery-soh-pipeline/blob/main/EXPERIMENT_LOG.md) |
 
 <br/>
 
 ## 📂 Projects
 
-| 프로젝트 | 설명 | 기술 |
-| --- | --- | --- |
-| 🔋 [battery-soh-pipeline](https://github.com/diacond/battery-soh-pipeline) | 데이터 분석 | 배터리 충방전 기록으로 수명(SOH/RUL)을 예측하는 API. 누수 없는 검증 설계, 외부 데이터셋 검증, MSA 분리, CI 재현 | Python · FastAPI · scikit-learn · Docker · GitHub Actions |
+| 프로젝트 | 분야 | 설명 | 기술 |
+| --- | --- | --- | --- |
+| 👶 [아이앞으로](https://github.com/F1-FamilyOne/foryouhana-mobileweb-ui) | 웹 서비스 · 팀(8인) | 하나은행 자녀 증여·투자 모바일 웹. **타임라인 기능을 DB 스키마부터 Server Action, 화면까지** 담당 | Next.js · TypeScript · Prisma · MySQL |
+| 📈 [QuantInvesting](https://github.com/diacond/QuantInvesting) | 금융 데이터 | 퀀트 트레이딩을 위한 이동평균선 교차 전략 백테스팅·종목 스크리너 대시보드 | Python · vectorbt · Streamlit · Plotly |
 | 🛰️ [mstar-atr](https://github.com/diacond/mstar-atr) | 데이터 분석 | 레이더(SAR) 영상에서 차량 10종을 분류하는 API. HOG + SVM, 정확도 86.7% | Python · FastAPI · scikit-learn |
-| 📈 [QuantInvesting](https://github.com/diacond/QuantInvesting) | 퀀트 트레이딩을 위한 이동평균선 교차 전략 백테스팅·종목 스크리너 대시보드 | Python · vectorbt · Streamlit · Plotly |
-| 🗂️ [hanaro_first_hw](https://github.com/diacond/hanaro_first_hw) | 게시판 서비스 DB 모델링 및 Prisma 연동 | Next.js · TypeScript · Prisma · MySQL |
-| 🧩 [PracTest](https://github.com/diacond/PracTest) | 코딩 테스트 준비 | C++ · Python · SQL |
-| 📚 [hana8](https://github.com/diacond/hana8) | 디지털하나路 8기 웹 기초 학습 기록 | HTML · CSS · JavaScript · TypeScript |
+| 🗂️ [hanaro_first_hw](https://github.com/diacond/hanaro_first_hw) | DB 모델링 | 게시판 서비스 DB 모델링 및 Prisma 연동 | Next.js · TypeScript · Prisma · MySQL |
+| 🧩 [PracTest](https://github.com/diacond/PracTest) | 코딩 테스트 | 백준·프로그래머스 약 200문제 풀이 기록 | C++ · Python · SQL |
+| 📚 [hana8](https://github.com/diacond/hana8) | 학습 기록 | 디지털하나路 8기 웹 기초 학습 기록 | HTML · CSS · JavaScript · TypeScript |
 
 👉 각 프로젝트의 세부사항은 **[PROJECTS.md](./PROJECTS.md)** 에 정리했습니다.
 
