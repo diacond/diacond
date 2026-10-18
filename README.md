@@ -67,7 +67,6 @@
 | --- | --- |
 | 담당 | **타임라인·자녀 프로필 화면 프론트엔드 개발**, **데이터베이스 설계** |
 | 기술 | Next.js 16 · React 19 · TypeScript · Prisma · MySQL · Storybook |
-| 링크 | [Repository](https://github.com/F1-FamilyOne/foryouhana-mobileweb-ui) · [Organization](https://github.com/F1-FamilyOne) |
 
 ### 💵 [하나케어 (HanaroCare)](https://github.com/HanaroCare/hanaro-care-main)
 **시니어의 노후 지출을 정밀하게 설계하고 자산을 안전하게 지켜주는 서비스**
@@ -78,7 +77,6 @@
 | --- | --- |
 | 담당 | **상속 파트 풀스택 개발** (요구사항 → API → DB → 화면) |
 | 기술 | Spring · MySQL · React · TypeScript |
-| 링크 | [Repository](https://github.com/HanaroCare/hanaro-care-main) · [Organization](https://github.com/HanaroCare) |
 
 <br/>
 
@@ -86,9 +84,9 @@
 
 | 프로젝트 | 분야 | 설명 | 기술 |
 | --- | --- | --- | --- |
-| 🔋 [battery-soh-pipeline](https://github.com/diacond/battery-soh-pipeline) | 데이터 분석 | 배터리 충방전 기록으로 수명(SOH/RUL)을 예측하는 API. 누수 없는 검증(LOBO)으로 SOH MAE 0.008 · R² 0.982, 외부 데이터셋 검증, MSA 분리, CI 재현 | Python · scikit-learn · FastAPI · Docker · GitHub Actions |
-| 📈 [QuantInvesting](https://github.com/diacond/QuantInvesting) | 금융 | 퀀트 트레이딩을 위한 이동평균선 교차 전략 백테스팅·종목 스크리너 대시보드 | Python · vectorbt · Streamlit · Plotly |
-| 🛰️ [mstar-atr](https://github.com/diacond/mstar-atr) | 데이터 분석 | 레이더(SAR) 영상에서 차량 10종을 분류하는 API. HOG + SVM, 정확도 86.7% | Python · FastAPI · scikit-learn |
+| 🔋 [battery-soh-pipeline](https://github.com/diacond/battery-soh-pipeline) | 데이터 분석 | 배터리 충/방전 기록으로 수명(SOH/RUL)을 예측하는 API. (외부 데이터셋 검증, MSA 분리, CI 재현) | Python · scikit-learn · FastAPI · Docker · GitHub Actions |
+| 📈 [QuantInvesting](https://github.com/diacond/QuantInvesting) | 금융/투자 | 퀀트 트레이딩 연습: 이동평균선 교차 전략 백테스팅·종목 스크리닝 | Python · vectorbt · Streamlit · Plotly |
+| 🛰️ [mstar-atr](https://github.com/diacond/mstar-atr) | 데이터 분석 | 레이더(SAR) 영상에서 차량 10종을 분류하는 API. (HOG + SVM 정확도 86.7%) | Python · FastAPI · scikit-learn |
 
 <br/>
 
